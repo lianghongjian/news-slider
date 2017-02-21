@@ -15,9 +15,9 @@
 
 
 		<!-- Resources -->
-		<link rel="stylesheet" type="text/css" href="/rest/jcr/repository/collaboration/sites/shared/css/NewsSlider.css" media="all"/>
-		<script type="text/javascript" src="/rest/jcr/repository/collaboration/sites/shared/js/jquery.easing.js"></script>
-        <script type="text/javascript">
+		<link rel="stylesheet" type="text/css" href="http://10.10.5.151:8080/rest/private/jcr/repository/collaboration/sites/shared/css/NewsSlider.css" media="all"/>
+		<script type="text/javascript"src=“http://10.10.5.151:8080/rest/private/jcr/repository/collaboration/sites/shared/js/jquery-1.9.1.min.js”></script>
+	    <script type="text/javascript>
 		var j = jQuery.noConflict();
 
             j(function() {
